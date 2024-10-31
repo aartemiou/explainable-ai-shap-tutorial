@@ -13,3 +13,11 @@ Read the full article on LinkedIn: [Explainable AI: Trust and Transparency with 
 Install required libraries with:
 ```bash
 pip install pandas numpy scikit-learn shap matplotlib
+```
+
+## License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+## Author
+Artemakis Artemiou  
+AI Leader | Automation Architect | Database Expert | Former Microsoft MVP | Scaled Scrum Master | Published Author & Speaker
